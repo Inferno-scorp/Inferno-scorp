@@ -13,10 +13,6 @@
 
 * 🔭 I'm currenltly working on **Tableau Data Analytics Project**
 
-
-
-
-
 </p>
 <br>
 <br>
@@ -25,6 +21,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/aniket darvekar" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket darvekar" height="30" width="40"/></a>
 <a href="https://www.behance.net/aniketdarvekar" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aniketdarvekar" height="30" width="40"/></a>
+
+
+
 <br>
 
 <br>
@@ -33,7 +32,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=inferno-scorp&show_icons=true&locale=en" alt="inferno-scorp" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inferno-scorp&show_icons=true&locale=en&layout=compact" alt="inferno-scorp"/>
-
+  
 </n>
 
 </p>
