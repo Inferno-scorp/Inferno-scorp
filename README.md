@@ -20,9 +20,9 @@
 
 <br>
 
-<p>&#8196; &emsp13;<img align="left" src="https://github-readme-stats.vercel.app/api?username=inferno-scorp&show_icons=true&locale=en&layout=compact" alt="inferno-scorp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=inferno-scorp&show_icons=true&locale=en&layout=compact" alt="inferno-scorp" /></p>
 
-<p>&#8196; &emsp13;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=inferno-scorp&show_icons=true&locale=en&layout=compact" alt="inferno-scorp"/>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=inferno-scorp&show_icons=true&locale=en&layout=compact" alt="inferno-scorp"/>
 
 </n>
 
