@@ -8,7 +8,6 @@
 <br>
 
 * 🌱 I’m currently learning **Tableau**
-
 * 💬 Ask me about **Data Analytics, Data Science**
 
 * 📫 Reach me through <a href="mailto:aniketdarvekar18@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/aniket-d-b3b208193/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -21,9 +20,9 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=inferno-scorp&show_icons=true&locale=en&layout=compact" alt="inferno-scorp" /></p>
+<p>&#8196; &emsp13;<img align="left" src="https://github-readme-stats.vercel.app/api?username=inferno-scorp&show_icons=true&locale=en&layout=compact" alt="inferno-scorp" /></p>
 
-<p>&nbsp; &nbsp; &nbsp; &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inferno-scorp&show_icons=true&locale=en&layout=compact" alt="inferno-scorp"/>
+<p>&#8196; &emsp13;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=inferno-scorp&show_icons=true&locale=en&layout=compact" alt="inferno-scorp"/>
 
 </n>
 
