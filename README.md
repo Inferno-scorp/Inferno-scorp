@@ -10,9 +10,8 @@
 * 🌱 I’m currently learning **Tableau**
 * 💬 Ask me about **Data Analytics, Data Science**
 
-* 📫 Reach me through <a href="mailto:aniketdarvekar18@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/aniket-d-b3b208193/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
 * 🔭 I'm currenltly working on **Tableau Data Analytics Project**
+* 📫 Reach me through <a href="mailto:aniketdarvekar18@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/aniket-d-b3b208193/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </p>
 <br>
 </p>
