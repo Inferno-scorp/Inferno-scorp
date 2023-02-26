@@ -11,7 +11,7 @@
 * 💬 Ask me about **Data Analytics, Data Science**
 
 * 🔭 I'm currenltly working on **Tableau Data Analytics Project**
-* 📫 Connect/Reach me through: <a href="mailto:aniketdarvekar18@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><a href="https://www.linkedin.com/in/aniket-d-b3b208193/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+* 📫 Connect/Reach me through: <a href="mailto:aniketdarvekar18@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/aniket-d-b3b208193/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <h1></h1>
 
