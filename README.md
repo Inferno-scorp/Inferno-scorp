@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Analyst from India :india:</h3>
 <img align="right" alt="Coding" width="350" src="https://i0.wp.com/barolainternship.com/wp-content/uploads/2021/06/ML-GIF.gif?resize=800%2C600&ssl=1">
 
-![scorp](https://komarev.com/ghpvc/?username=inferno-scorp)
+<img src="https://komarev.com/ghpvc/?username=inferno-scorp" style="float:right">
 <br>
 <br>
 <br>
