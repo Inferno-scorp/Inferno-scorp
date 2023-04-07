@@ -1,4 +1,5 @@
 
+![scorp](https://komarev.com/ghpvc/?username=inferno-scorp)
 <h2 align="center">Hi👋, I'm Aniket Darvekar</h2>
 <h3 align="center">A passionate Data Analyst from India :india:</h3>
 <img align="right" alt="Coding" width="350" src="https://i0.wp.com/barolainternship.com/wp-content/uploads/2021/06/ML-GIF.gif?resize=800%2C600&ssl=1">
@@ -12,7 +13,6 @@
 
 * 🔭 I'm currenltly working on **Tableau Data Analytics Project**
 * 📫 Connect/Reach me through: <a href="mailto:aniketdarvekar18@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/aniket-d-b3b208193/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-![scorp](https://komarev.com/ghpvc/?username=inferno-scorp)
 <h1></h1>
 
 **SKILLSET:**                                                   
