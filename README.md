@@ -1,5 +1,5 @@
 
-<p style="text-align:right;">![scorp](https://komarev.com/ghpvc/?username=inferno-scorp)</p>
+![scorp](https://komarev.com/ghpvc/?username=inferno-scorp){text-align: right;}
 <h2 align="center">Hi👋, I'm Aniket Darvekar</h2>
 <h3 align="center">A passionate Data Analyst from India :india:</h3>
 <img align="right" alt="Coding" width="350" src="https://i0.wp.com/barolainternship.com/wp-content/uploads/2021/06/ML-GIF.gif?resize=800%2C600&ssl=1">
