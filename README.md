@@ -8,7 +8,7 @@
 <br>
 <br>
 
-* 🌱 I’m currently learning **Tableau**
+* 🌱 I’m currently learning **SAP**
 * 💬 Ask me about **Data Analytics, Data Science**
 
 * 🔭 I'm currenltly working on **Tableau Data Analytics Project**
